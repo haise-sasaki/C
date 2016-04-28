@@ -1,0 +1,5 @@
+1. Scrieti un program care sterge toate aparitiile unui caracter c intr-un sir s.
+
+2. Scrieti un program care citeste un sir de caractere si verifica daca este palindrom sau nu.
+
+3. Scrieti un program care citeste n cuvinte si afiseaza sirul format din concatenarea ultimelor m litere din fiecare dintre cele n cuvinte citite.

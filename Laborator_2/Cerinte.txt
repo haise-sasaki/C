@@ -1,0 +1,3 @@
+1. Scrieti un program care verifica daca doua cuvinte sunt anagrame sau nu.
+
+2. Scrieti un program care citeste n cuvinte si afiseaza cuvantele de lungime maxima si minima.
