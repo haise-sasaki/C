@@ -22,7 +22,7 @@ void verificare (char *a, char *b)
             for (i=0; i<strlen(a); i++)
                 if(strchr((b), a[i])==NULL)
                 {
-                    printf("Cuvintele nu sunt anagrame#@#.");
+                    printf("Cuvintele nu sunt anagrame.");
                     return;
                 }
                 else
