@@ -1,0 +1,13 @@
+Definiti o structura Angajat care sa permita memorarea numelui unei persoane, a varstei sale, precum si a salariului sau.
+Scrieti un program care sa permita realizarea urmatoarelor operatii:
+
+A) Crearea unui fisier binar care sa contine informatii despre angajatii unei firme.
+(Informatiile se vor citi de la tastatura.)
+
+B) Afisarea pe cran a informatiilor citite din fisierul binar.
+
+C) Calcularea numarului de angajati din firma.
+
+D) Modificarea informatiilor despre un angajat avand un numar de ordine dat.
+
+E) Sortarea angajatiilor in ordine alfabetica.
